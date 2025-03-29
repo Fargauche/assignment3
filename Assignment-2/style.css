@@ -1,0 +1,19 @@
+/* style.css */
+
+/* Basic spacing */
+section {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  
+  /* Add smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  /* Image styling */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
